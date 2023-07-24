@@ -1,1 +1,2 @@
 # CodeClause-BasicTextEditor
+This repository contains a project completed during Web Development Internship July 2023 Under CodeClause.This project is a task 2(Basic TextE ditor) which is assigned by CodeClause ,using HTML5 ,CSS3 ,Bootstrap and JavaScript.This Basic Text Editor can text Bold ,Italic, underline ,change font-size ,change font-color,Left align,right align, center align , Uppercase,Lowercase and Clear Text.
